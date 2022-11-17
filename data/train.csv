@@ -207,8 +207,8 @@ img23.jpg,l1 l15 l18 l2 l21 l71
 raekoda1.jpg,l24 l0 l1 l5 l12 l15 l21 l23 l26 l28 l39 l45 l55
 raekoda2.jpg,l24 l1 l4 l5 l7 l9 l17 l23 l32 l55 l59
 raekoda3.jpg,l24 l1 l5 l8 l12 l15 l21 l26 l28 l32 l34 l39 l55
-raekoda4.jpg,l24 l1 l2 l3 l9 l12 l13 l15 l34 l51 l55 l59
-raekoda5.jpg,l24 l1 l3 l7 l9 l12 l13 l16 l23 l34 l43 l51 l55 l59
+raekoda4.jpg,l24 l1 l2 l3 l9 l12 l15 l34 l51 l55 l59
+raekoda5.jpg,l24 l1 l3 l7 l9 l12 l16 l23 l34 l43 l51 l55 l59
 raekoda6.jpg,l24 l5 l7 l9 l12 l14 l15 l23 l32 l34
 raekoda7.jpg,l24 l1 l5 l8 l12 l15 l21 l26 l28 l39 l45 l55
 jommu1.jpg,l38 l40 l0 l6 l10 l32
@@ -222,6 +222,15 @@ jommu8.jpg,l38 l40 l0 l1 l2 l3 l6 l10 l19 l22 l32 l49 l54 l61
 jommu9.jpg,l38 l40 l0 l1 l5 l6 l11 l20 l49 l56
 jommu10.jpg,l38 l40 l0 l6 l10
 jommu11.jpg,l38 l40 l0 l1 l2 l5 l6 l9 l15 l23 l49 l56
+tudengid1.jpg,l28 l3 l6 l18 l24 l26 l39 l43 l51
+tudengid2.jpg,l28 l0 l5 l6 l12 l15 l24 l26 l39 l45 l48 l51
+tudengid3.jpg,l28 l5 l6 l19 l24 l32 l34 l43 l48 l51
+tudengid4.jpg,l28 l0 l5 l33 l37 l80
+tudengid5.jpg,l28 l3 l24 l37 l80
+tudengid6.jpg,l28 l0 l5 l6 l12 l18 l21 l24 l26 l39 l45 l48 l51 l55
+tudengid7.jpg,l28 l3 l6 l24 l26 l39 l45 l48 l51
+tudengid8.jpg,l28 l3 l6 l45 l48
+tudengid9.jpg,l28 l5 l6 l24 l26 l39 l45 l51
 new1.jpg,l5 l0 l71 l72 l77 l21
 new2.jpg,l17 l41 
 new3.jpg,l56 l70 l77 l10 l0 l1 l8 l5 l19
