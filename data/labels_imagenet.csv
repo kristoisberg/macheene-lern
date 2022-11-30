@@ -1,0 +1,93 @@
+label_id,object,imagenet_label,imagenet_id
+l0,people,people,n07942152
+l1,trees,,
+l2,grass,grass,n12102133
+l3,building,building,n02913152
+l4,snow,snow,n11508382
+l5,buildings,,
+l6,water,water,n07935504
+l7,road,road,n04096066
+l8,person,person,n00007846
+l9,cars,,
+l10,nature,,
+l11,bicycle,bicycle,n02834778
+l12,pavement,paving,n14977504
+l13,flowers,,
+l14,traffic signs,,
+l15,lamp posts,,
+l16,traffic sign,street sign,n06794110
+l17,winter,,
+l18,stairs,,
+l19,clouds,,
+l20,bridge,bridge,n02898711
+l21,stone road,,
+l22,sand,sand,n15019030
+l23,street,street,n04334599
+l24,town hall of tartu,,
+l25,graffiti,graffito,n03451798
+l26,estonian flag,,
+l27,tree,tree,n13104059
+l28,the sculpture of kissing students,,
+l29,wall,wall,n04546855
+l30,bench,bench,n02828884
+l31,playground,playground,n03963645
+l32,blue sky,,
+l33,children,,
+l34,sunny,sunniness,n04951875
+l35,dog,dog,n02084071
+l36,yellow leaves,,
+l37,chain light,,
+l38,barge,barge,n02792552
+l39,flags,,
+l40,emajõe-peipsi barge jõmmu,,
+l41,drone photography,,
+l42,tractor,tractor,n04465501
+l43,lamp post,lamppost,n03637181
+l44,glasses,,
+l45,cloudy,,
+l46,bushes,,
+l47,autumn,,
+l48,fountain,fountain,n03388043
+l49,river,,
+l50,car,car,n02958343
+l51,plants,,
+l52,red bus,,
+l53,green garbage can,,
+l54,beach,beach,n09217230
+l55,benches,,
+l56,fence,fence,n03327234
+l57,performing,,
+l58,worker,worker,n02207449
+l59,park,,
+l60,wedding,wedding,n08256735
+l61,boat,boat,n02858304
+l62,child,child,n09917593
+l63,plane,plane,n03954731
+l64,cat,cat,n02121620
+l65,railroad,,
+l66,chair,chair,n03001627
+l67,traffic,,
+l68,suit,suit,n04350905
+l69,snow plow,snowplow,n04252225
+l70,leaves,,
+l71,stair railings,,
+l72,sign,sign,n06793231
+l73,house,house,n03544360
+l74,outdoor gym,,
+l75,hands,,
+l76,crosswalk,pedestrian crossing,n03904183
+l77,human,homo,n02472293
+l78,man,man,n10289039
+l79,cone,cone,n13872592
+l80,lights,,
+l81,suitcase,,
+l82,snow statue,,
+l83,table,table,n04379243
+l84,pencil,pencil,n13863020
+l85,stroller,,
+l86,tents,,
+l87,stage,stage,n04296562
+l88,book,book,n07954211
+l89,books,,
+l90,flag,flag,n03354903
+l91,pole,pole,n03976657
