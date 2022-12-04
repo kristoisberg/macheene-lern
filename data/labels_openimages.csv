@@ -1,0 +1,93 @@
+label_id,object,openimages_label,multiple
+l0,people,Person,True
+l1,trees,Tree,True
+l2,grass,Grass
+l3,building,Building,False
+l4,snow,Snow
+l5,buildings,Building,True
+l6,water,Water
+l7,road,Road
+l8,person,Person,False
+l9,cars,Car,True
+l10,nature,Nature
+l11,bicycle,Bicycle
+l12,pavement,Pavement
+l13,flowers,Flower
+l14,traffic signs,Traffic sign,True
+l15,lamp posts,Street light,True
+l16,traffic sign,Traffic sign,False
+l17,winter,Winter
+l18,stairs,Stairs
+l19,clouds,Cloud
+l20,bridge,Bridge (structure)
+l21,stone road
+l22,sand,Sand
+l23,street,Street
+l24,town hall of tartu
+l25,graffiti,Graffiti
+l26,estonian flag
+l27,tree,Tree,False
+l28,the sculpture of kissing students
+l29,wall
+l30,bench,Bench,False
+l31,playground,Playground
+l32,blue sky
+l33,children,Child,True
+l34,sunny
+l35,dog,Dog
+l36,yellow leaves
+l37,chain light,Christmas lights
+l38,barge,Barge
+l39,flags,Flag,True
+l40,emajõe-peipsi barge jõmmu
+l41,drone photography
+l42,tractor,Tractor
+l43,lamp post,Street light,False
+l44,glasses,Glass
+l45,cloudy
+l46,bushes,Shrub (Plant)
+l47,autumn,Autumn
+l48,fountain,Fountain
+l49,river,River
+l50,car,Car,False
+l51,plants,Plant
+l52,red bus
+l53,green garbage can
+l54,beach,Beach
+l55,benches,Bench,True
+l56,fence,Fence
+l57,performing,Street performance
+l58,worker,Construction worker
+l59,park,Park
+l60,wedding,Wedding
+l61,boat,Boat
+l62,child,Child,False
+l63,plane,Airplane
+l64,cat,Cat
+l65,railroad,Railway
+l66,chair,Chair
+l67,traffic,Traffic
+l68,suit,Suit
+l69,snow plow,Snowplow
+l70,leaves
+l71,stair railings
+l72,sign,Sign
+l73,house,House
+l74,outdoor gym
+l75,hands,Human hand
+l76,crosswalk,Pedestrian crossing
+l77,human
+l78,man,Man
+l79,cone,Cone
+l80,lights,Light
+l81,suitcase,Suitcase
+l82,snow statue,Snowman
+l83,table,Table
+l84,pencil,Pencil
+l85,stroller,Baby carriage
+l86,tents,Tent
+l87,stage,Stage
+l88,book,Book,False
+l89,books,Book,True
+l90,flag,Flag,False
+l91,pole,Pole
