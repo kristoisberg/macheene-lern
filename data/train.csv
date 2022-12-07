@@ -204,12 +204,12 @@ img198.jpg,l0 l10 l11 l65 l7
 img82.jpg,l2
 img124.jpg,l0 l1 l19 l22 l34 l6
 img23.jpg,l1 l15 l18 l2 l21 l71
-raekoda1.jpg,l24 l0 l1 l5 l12 l15 l21 l23 l26 l28 l39 l45 l55
-raekoda2.jpg,l24 l1 l4 l5 l7 l9 l17 l23 l32 l55 l59
+raekoda1.jpg,l24 l0 l1 l5 l12 l15 l21 l26 l28 l39 l45 l55
+raekoda2.jpg,l24 l1 l4 l5 l7 l9 l17 l32 l55 l59
 raekoda3.jpg,l24 l1 l5 l8 l12 l15 l21 l26 l28 l32 l34 l39 l55
 raekoda4.jpg,l24 l1 l2 l3 l9 l12 l15 l34 l51 l55 l59
-raekoda5.jpg,l24 l1 l3 l7 l9 l12 l16 l23 l34 l43 l51 l55 l59
-raekoda6.jpg,l24 l5 l7 l9 l12 l14 l15 l23 l32 l34
+raekoda5.jpg,l24 l1 l3 l7 l9 l12 l16 l34 l43 l51 l55 l59
+raekoda6.jpg,l24 l5 l7 l9 l12 l14 l15 l32 l34
 raekoda7.jpg,l24 l1 l5 l8 l12 l15 l21 l26 l28 l39 l45 l55
 jommu1.jpg,l38 l40 l0 l6 l10 l32
 jommu2.jpg,l38 l40 l0 l1 l2 l6 l10 l19 l22 l34
@@ -221,7 +221,7 @@ jommu7.jpg,l38 l40 l0 l1 l2 l3 l6 l9 l10 l18 l19 l32 l34 l49 l61 l71
 jommu8.jpg,l38 l40 l0 l1 l2 l3 l6 l10 l19 l22 l32 l49 l54 l61
 jommu9.jpg,l38 l40 l0 l1 l5 l6 l11 l20 l49 l56
 jommu10.jpg,l38 l40 l0 l6 l10
-jommu11.jpg,l38 l40 l0 l1 l2 l5 l6 l9 l15 l23 l49 l56
+jommu11.jpg,l38 l40 l0 l1 l2 l5 l6 l7 l9 l15 l49 l56
 tudengid1.jpg,l28 l3 l6 l18 l24 l26 l39 l43 l51
 tudengid2.jpg,l28 l0 l5 l6 l12 l15 l24 l26 l39 l45 l48 l51
 tudengid4.jpg,l28 l0 l5 l33 l37 l80
@@ -233,7 +233,7 @@ new4.jpg,l0 l24 l28 l48 l5
 new5.jpg,l3 l32 l19 l14
 new6.jpg,l8 l58 l29
 new7.jpg,l78 l67 l45 l5 l9
-new8.jpg,l36 l23 l5 l9 l47
+new8.jpg,l36 l7 l5 l9 l47
 new9.jpg,l8 l58 l10 l91 l16
 new10.jpg,l14 l45 l5 l17
 flickr/52209509511_b256cb4877_o.jpg,l1 l2 l12 l19 l63
@@ -244,3 +244,29 @@ flickr/51163811021_26d44b4226_o.jpg,l1 l2 l12 l19 l63 l72
 flickr/19882175226_72bd17da41_b.jpg,l1 l2 l19 l63
 flickr/23646590694_20d8de75f4_b.jpg,l1 l2 l12 l58 l63
 flickr/48377951922_03af70f3ec_o.jpg,l1 l2 l12 l39 l45 l46 l58 l63
+flickr/161058473_4f9256cdaa_b.jpg,l0 l5 l14 l26 l27 l45 l50 l51 l56 l66 l72 l90
+flickr/176420165_c4ad60178c_o.jpg,l26 l45 l90
+flickr/414436609_c5bc5acbf6_o.jpg,l1 l3 l26 l45 l51 l66 l73 l90
+flickr/869681424_02a9bb066d_o.jpg,l0 l1 l5 l7 l16 l21 l26 l90
+flickr/1515615516_ba2fdc1f25_o.jpg,l8 l39
+flickr/2667304248_6a5b19f2f9_o.jpg,l6 l19 l26 l32 l56 l90
+flickr/3306670614_5c0ea60a01_o.jpg,l1 l5 l7 l9 l21 l26 l39 l45
+flickr/3860760087_e668721203_o.jpg,l0 l5 l7 l9 l21 l26 l39 l45
+flickr/5397224391_639f617692_b.jpg,l4 l5 l8 l17 l26 l39 l45
+flickr/5898385346_3d3f722427_o.jpg,l19 l26 l32 l34 l90
+flickr/6111456269_15bcf8120d_b.jpg,l1 l26 l32 l90
+flickr/6396845989_0a242be67a_b.jpg,l0 l5 l7 l9 l21 l24 l90
+flickr/6926899379_55f8759879_o.jpg,l26 l29 l90
+flickr/8071071769_c26dc67859_b.jpg,l5 l7 l9 l19 l21 l32 l39
+flickr/8150245395_5d39f0cf8a_o.jpg,l3 l19 l26 l32 l90
+flickr/8483961181_b9d8f63243_o.jpg,l0 l4 l5 l6 l7 l17 l21 l39 l45 l72
+flickr/13958799975_b7acff1295_o.jpg,l0 l5 l7 l21 l72 l90
+flickr/14830072652_9403487c54_o.jpg,l1 l5 l7 l9 l16 l18
+flickr/15283818391_0d9802164f_o.jpg,l5 l26 l27 l32 l39
+flickr/30512129775_ca6c537055_b.jpg,l1 l2 l5 l7 l19 l26 l90
+flickr/32818629994_dc5b6c06e1_o.jpg,l5 l7 l19 l21 l39 l72
+flickr/32976425791_4633d9e3f8_b.jpg,l5 l19 l26 l27 l39 l72
+flickr/44666874221_f3f851a892_o.jpg,l5 l7 l8 l19 l32 l39 l50 l51 l72 l80 l83
+flickr/51255057987_4066583cc4_b.jpg,l1 l5 l7 l9
+flickr/52366081593_1d2eb1129b_o.jpg,l1 l2 l26 l29 l32 l90
+flickr/52541725830_3966ae595b_b.jpg,l1 l4 l6 l26 l37 l56 l90
